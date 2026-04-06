@@ -14,7 +14,7 @@ Some of my lab projects I've been working on:
 
 - **[ailoop](https://github.com/goailoop/ailoop)** – CLI and server for AI agents to communicate with humans via structured interactions (questions, approvals, notifications; direct and multi-agent server mode).
 
-- **[aikit](https://github.com/goaikit/aikit)** – Universal package manager for AI agent extensions: create, share, and run reusable commands and templates across Claude, Cursor, Copilot, Gemini, and more.
+- **[aikit](https://github.com/goaikit/aikit)** – kit of tools for interfacing with AI Agents: create, share, and run reusable commands, emulation and templates across Claude, Cursor, Copilot, Gemini, and more. 
 
 - **[reskit](https://github.com/aroff/reskit)** – AI template kit for quantitative investment research: structured workflows, quality gates, and reproducibility for strategy development.
 
