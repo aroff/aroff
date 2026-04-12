@@ -1,12 +1,9 @@
 # Alexandre ("Alex") Oliveira
 
-- I'm currently focused on deep diving into the implementation of AI agentic tools applied to finance, research, and software engineering.
-- I'm looking to collaborate on quantitative research or portfolio management projects that involve hybrid expertise in financial research, software engineering, applied AI, and data management.
-- I'm especially interested in the safe application of AI agentic tools to solve financial research and software engineering problems at scale.
+- AI agentic tools applied to quantitative finance, research, and software engineering.
+- Interested in the robust application of AI agentic tools to solve financial research and software engineering problems at scale.
 
-## Projects
-
-Some of my lab projects I've been working on:
+## Useful links
 
 - **[fastskill](https://github.com/gofastskill/fastskill)** – Package manager for AI agent skills: discovery, install, versioning, and deployment at scale (Claude Code, Cursor compatible).
 
@@ -19,3 +16,5 @@ Some of my lab projects I've been working on:
 - **[reskit](https://github.com/aroff/reskit)** – AI template kit for quantitative investment research: structured workflows, quality gates, and reproducibility for strategy development.
 
 - **[cli-emu](https://github.com/aroff/cli-emulator)** – Deterministic CLI emulator: describe any CLI in YAML and replay it for e2e tests, CI/CD, and agentic workloads without network or real binaries.
+
+- **[agwiki](https://github.com/goagwiki/agwiki)** – a rust cli for maintaining wikis: run agent-driven ingestion of content, validate links and pages, and export wiki as skills
