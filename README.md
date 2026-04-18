@@ -1,5 +1,3 @@
-# Alexandre ("Alex") Oliveira
-
 - AI agentic tools applied to quantitative finance, research, and software engineering.
 - Working on robust applied application of AI agentic tools to quant development, financial research and software engineering problems at scale.
 
