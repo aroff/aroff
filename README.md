@@ -3,7 +3,7 @@ My focus
 - AI agentic tools applied to quantitative finance, research, and software engineering.
 - Working on robust application of AI agentic tools to quant development, financial research and software engineering problems at scale.
 
-## Useful links
+## Useful links and open source projects
 
 - **[fastskill](https://github.com/gofastskill/fastskill)** – Package manager for AI agent skills: discovery, install, versioning, and deployment at scale (Claude Code, Cursor compatible).
 
@@ -18,3 +18,5 @@ My focus
 - **[cli-emu](https://github.com/aroff/cli-emulator)** – Deterministic CLI emulator: describe any CLI in YAML and replay it for e2e tests, CI/CD, and agentic workloads without network or real binaries.
 
 - **[agwiki](https://github.com/goagwiki/agwiki)** – a rust cli for maintaining wikis: run agent-driven ingestion of content, validate links and pages, and export wiki as skills
+
+- **[cli-framework](https://github.com/aroff/cli-framework) - a rust CLI Framework for Agentic AI that simplifies creation of AI-enabled cli tools (AI-friendly command structure, help, MCP etc)
