@@ -19,4 +19,4 @@ My focus
 
 - **[agwiki](https://github.com/goagwiki/agwiki)** – a rust cli for maintaining wikis: run agent-driven ingestion of content, validate links and pages, and export wiki as skills
 
-- **[cli-framework](https://github.com/aroff/cli-framework) - a rust CLI Framework for Agentic AI that simplifies creation of AI-enabled cli tools (AI-friendly command structure, help, MCP etc)
+- **[cli-framework](https://github.com/aroff/cli-framework)** - a rust CLI Framework for Agentic AI that simplifies creation of AI-enabled cli tools (AI-friendly command structure, help, MCP etc)
