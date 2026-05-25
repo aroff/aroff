@@ -5,18 +5,18 @@ My focus
 
 ## Useful links and open source projects
 
-- **[fastskill](https://github.com/gofastskill/fastskill)** – Package manager for AI agent skills: discovery, install, versioning, and deployment at scale (Claude Code, Cursor compatible).
+- **[fastskill](https://github.com/gofastskill/fastskill)** – AI agent skills management: discovery, install, versioning, and deployment at scale (Claude Code, Cursor compatible).
 
-- **[newton](https://github.com/gonewton/newton)** – CLI for iterative optimization and workflow graphs for agentic AI goals. It is actually mainly used as an orchestrator for AI coding tasks.
+- **[newton](https://github.com/gonewton/newton)** – Self-optimization harness for Agentic Coding in large scale codebases
 
-- **[ailoop](https://github.com/goailoop/ailoop)** – CLI and server for AI agents to communicate with humans via structured interactions (questions, approvals, notifications; direct and multi-agent server mode).
+- **[ailoop](https://github.com/goailoop/ailoop)** – Human in the loop - allow Agents to communicate with humans via structured interactions (questions, approvals, notifications; direct and multi-agent server mode).
 
-- **[aikit](https://github.com/goaikit/aikit)** – kit of tools for interfacing with AI Agents: create, share, and run reusable commands, emulation and templates across Claude, Cursor, Copilot, Gemini, and more. 
+- **[aikit](https://github.com/goaikit/aikit)** – Set of tools and reusable crates for interfacing with AI Agents: create, share, and run reusable commands, emulation and templates across Claude, Cursor, Copilot, Gemini, and more. 
 
 - **[reskit](https://github.com/aroff/reskit)** – AI template kit for quantitative investment research: structured workflows, quality gates, and reproducibility for strategy development.
 
-- **[cli-emu](https://github.com/aroff/cli-emulator)** – Deterministic CLI emulator: describe any CLI in YAML and replay it for e2e tests, CI/CD, and agentic workloads without network or real binaries.
+- **[cli-emu](https://github.com/aroff/cli-emulator)** – Deterministic CLI emulator: describe any CLI in YAML and replay it for e2e tests, CI/CD, and agentic workloads without network or real binaries. Use for E2E testing with fake cli tools.
 
-- **[agwiki](https://github.com/goagwiki/agwiki)** – a rust cli for maintaining wikis: run agent-driven ingestion of content, validate links and pages, and export wiki as skills
+- **[agwiki](https://github.com/goagwiki/agwiki)** – a rust cli for maintaining knowledge bases: run agent-driven ingestion of content, validate links and pages, and export wiki as skills
 
-- **[cli-framework](https://github.com/aroff/cli-framework)** - a rust CLI Framework for Agentic AI that simplifies creation of AI-enabled cli tools (AI-friendly command structure, help, MCP etc)
+- **[cli-framework](https://github.com/aroff/cli-framework)** - a rust CLI Framework for Agentic AI that simplifies creation of AI-enabled cli tools (AI-friendly command structure, help, MCP, api services, copilot services etc)
